@@ -36,12 +36,12 @@ html, body {
   padding-bottom: 1rem;
 }
 .btn-primary {
-  background-color: #6648b1;
-  border: 1px solid #6648b1;
+  background-color: #4aceb1;
+  border: 1px solid #4aceb1;
 }
 .btn-primary:hover {
-  background-color: #563d7c;
-  border: 1px solid #563d7c;
+  background-color: #a653dd;
+  border: 1px solid #a653dd;
 }
 .jumbotron {
   padding: 1rem;
